@@ -1,5 +1,5 @@
 # Automated-mail-generation-vba-uipath
-Automates data extraction from SharePoint, processes and formats it using Excel VBA, and sends scheduled email reports via Outlook. Integrated with UiPath to run hourly with one click, improving reporting efficiency and accuracy.
+
 Overview
 This project automates email report generation and distribution by extracting data from SharePoint, processing it with Excel VBA, and sending formatted reports via Outlook. The solution is integrated with UiPath to enable hourly execution with minimal user interaction.
 
